@@ -1,0 +1,52 @@
+{
+  "5": {
+    "objective": 4184071.3815610004,
+    "obj_verify": 4184071.38,
+    "pulp_benchmark": 4184071,
+    "gap_vs_pulp_pct": 0.0,
+    "solve_time": 0.0,
+    "selected": [
+      1,
+      8,
+      14,
+      16,
+      17
+    ]
+  },
+  "8": {
+    "objective": 3774238.4146829993,
+    "obj_verify": 3774238.41,
+    "pulp_benchmark": 3774238,
+    "gap_vs_pulp_pct": 0.0,
+    "solve_time": 0.0,
+    "selected": [
+      0,
+      1,
+      3,
+      5,
+      8,
+      12,
+      16,
+      17
+    ]
+  },
+  "10": {
+    "objective": 3641579.5910019996,
+    "obj_verify": 3641579.59,
+    "pulp_benchmark": 3641580,
+    "gap_vs_pulp_pct": -0.0,
+    "solve_time": 0.0,
+    "selected": [
+      0,
+      3,
+      5,
+      6,
+      8,
+      12,
+      13,
+      16,
+      17,
+      24
+    ]
+  }
+}
