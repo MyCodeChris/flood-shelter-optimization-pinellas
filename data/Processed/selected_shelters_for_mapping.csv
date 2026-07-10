@@ -1,0 +1,93 @@
+p,METHOD,SID,NAME,LAT,LON
+5,CPLEX_Agg,0,Clearwater Fundamental Middle,27.976248,-82.766487
+5,CPLEX_Agg,1,Palm Harbor Middle,28.066762,-82.752829
+5,CPLEX_Agg,7,Jamerson Elementary,27.758239,-82.682283
+5,CPLEX_Agg,16,Lealman Exchange,27.818585,-82.693162
+5,CPLEX_Agg,17,Mildred Helms Elementary,27.912518,-82.79708
+5,CPLEX_Full,1,Palm Harbor Middle,28.066762,-82.752829
+5,CPLEX_Full,8,Sanderlin K-8,27.747297,-82.665967
+5,CPLEX_Full,14,Skycrest Elementary,27.966234,-82.761041
+5,CPLEX_Full,16,Lealman Exchange,27.818585,-82.693162
+5,CPLEX_Full,17,Mildred Helms Elementary,27.912518,-82.79708
+5,PuLP_CBC,1,Palm Harbor Middle,28.066762,-82.752829
+5,PuLP_CBC,8,Sanderlin K-8,27.747297,-82.665967
+5,PuLP_CBC,14,Skycrest Elementary,27.966234,-82.761041
+5,PuLP_CBC,16,Lealman Exchange,27.818585,-82.693162
+5,PuLP_CBC,17,Mildred Helms Elementary,27.912518,-82.79708
+5,RL,1,Palm Harbor Middle,28.066762,-82.752829
+5,RL,8,Sanderlin K-8,27.747297,-82.665967
+5,RL,14,Skycrest Elementary,27.966234,-82.761041
+5,RL,16,Lealman Exchange,27.818585,-82.693162
+5,RL,17,Mildred Helms Elementary,27.912518,-82.79708
+8,CPLEX_Agg,0,Clearwater Fundamental Middle,27.976248,-82.766487
+8,CPLEX_Agg,1,Palm Harbor Middle,28.066762,-82.752829
+8,CPLEX_Agg,3,Sexton Elementary,27.822357,-82.659844
+8,CPLEX_Agg,5,McMullen-Booth Elementary,27.995527,-82.712017
+8,CPLEX_Agg,8,Sanderlin K-8,27.747297,-82.665967
+8,CPLEX_Agg,12,Fairmount Park Elementary,27.764914,-82.690303
+8,CPLEX_Agg,16,Lealman Exchange,27.818585,-82.693162
+8,CPLEX_Agg,17,Mildred Helms Elementary,27.912518,-82.79708
+8,CPLEX_Full,0,Clearwater Fundamental Middle,27.976248,-82.766487
+8,CPLEX_Full,1,Palm Harbor Middle,28.066762,-82.752829
+8,CPLEX_Full,3,Sexton Elementary,27.822357,-82.659844
+8,CPLEX_Full,5,McMullen-Booth Elementary,27.995527,-82.712017
+8,CPLEX_Full,8,Sanderlin K-8,27.747297,-82.665967
+8,CPLEX_Full,12,Fairmount Park Elementary,27.764914,-82.690303
+8,CPLEX_Full,16,Lealman Exchange,27.818585,-82.693162
+8,CPLEX_Full,17,Mildred Helms Elementary,27.912518,-82.79708
+8,PuLP_CBC,0,Clearwater Fundamental Middle,27.976248,-82.766487
+8,PuLP_CBC,1,Palm Harbor Middle,28.066762,-82.752829
+8,PuLP_CBC,3,Sexton Elementary,27.822357,-82.659844
+8,PuLP_CBC,5,McMullen-Booth Elementary,27.995527,-82.712017
+8,PuLP_CBC,8,Sanderlin K-8,27.747297,-82.665967
+8,PuLP_CBC,12,Fairmount Park Elementary,27.764914,-82.690303
+8,PuLP_CBC,16,Lealman Exchange,27.818585,-82.693162
+8,PuLP_CBC,17,Mildred Helms Elementary,27.912518,-82.79708
+8,RL,0,Clearwater Fundamental Middle,27.976248,-82.766487
+8,RL,1,Palm Harbor Middle,28.066762,-82.752829
+8,RL,3,Sexton Elementary,27.822357,-82.659844
+8,RL,5,McMullen-Booth Elementary,27.995527,-82.712017
+8,RL,7,Jamerson Elementary,27.758239,-82.682283
+8,RL,16,Lealman Exchange,27.818585,-82.693162
+8,RL,17,Mildred Helms Elementary,27.912518,-82.79708
+8,RL,23,The Coliseum,27.77673,-82.641115
+10,CPLEX_Agg,0,Clearwater Fundamental Middle,27.976248,-82.766487
+10,CPLEX_Agg,1,Palm Harbor Middle,28.066762,-82.752829
+10,CPLEX_Agg,3,Sexton Elementary,27.822357,-82.659844
+10,CPLEX_Agg,5,McMullen-Booth Elementary,27.995527,-82.712017
+10,CPLEX_Agg,6,Carwise Middle,28.088628,-82.72659
+10,CPLEX_Agg,8,Sanderlin K-8,27.747297,-82.665967
+10,CPLEX_Agg,12,Fairmount Park Elementary,27.764914,-82.690303
+10,CPLEX_Agg,15,Largo High,27.919742,-82.786281
+10,CPLEX_Agg,16,Lealman Exchange,27.818585,-82.693162
+10,CPLEX_Agg,17,Mildred Helms Elementary,27.912518,-82.79708
+10,CPLEX_Full,0,Clearwater Fundamental Middle,27.976248,-82.766487
+10,CPLEX_Full,3,Sexton Elementary,27.822357,-82.659844
+10,CPLEX_Full,5,McMullen-Booth Elementary,27.995527,-82.712017
+10,CPLEX_Full,6,Carwise Middle,28.088628,-82.72659
+10,CPLEX_Full,8,Sanderlin K-8,27.747297,-82.665967
+10,CPLEX_Full,12,Fairmount Park Elementary,27.764914,-82.690303
+10,CPLEX_Full,13,Belleair Elementary,27.950563,-82.788892
+10,CPLEX_Full,16,Lealman Exchange,27.818585,-82.693162
+10,CPLEX_Full,17,Mildred Helms Elementary,27.912518,-82.79708
+10,CPLEX_Full,24,White Chapel,28.076766,-82.765247
+10,PuLP_CBC,0,Clearwater Fundamental Middle,27.976248,-82.766487
+10,PuLP_CBC,3,Sexton Elementary,27.822357,-82.659844
+10,PuLP_CBC,5,McMullen-Booth Elementary,27.995527,-82.712017
+10,PuLP_CBC,6,Carwise Middle,28.088628,-82.72659
+10,PuLP_CBC,8,Sanderlin K-8,27.747297,-82.665967
+10,PuLP_CBC,12,Fairmount Park Elementary,27.764914,-82.690303
+10,PuLP_CBC,13,Belleair Elementary,27.950563,-82.788892
+10,PuLP_CBC,16,Lealman Exchange,27.818585,-82.693162
+10,PuLP_CBC,17,Mildred Helms Elementary,27.912518,-82.79708
+10,PuLP_CBC,24,White Chapel,28.076766,-82.765247
+10,RL,0,Clearwater Fundamental Middle,27.976248,-82.766487
+10,RL,3,Sexton Elementary,27.822357,-82.659844
+10,RL,5,McMullen-Booth Elementary,27.995527,-82.712017
+10,RL,6,Carwise Middle,28.088628,-82.72659
+10,RL,7,Jamerson Elementary,27.758239,-82.682283
+10,RL,10,Campbell Park Elementary,27.763674,-82.6496
+10,RL,13,Belleair Elementary,27.950563,-82.788892
+10,RL,16,Lealman Exchange,27.818585,-82.693162
+10,RL,17,Mildred Helms Elementary,27.912518,-82.79708
+10,RL,24,White Chapel,28.076766,-82.765247
